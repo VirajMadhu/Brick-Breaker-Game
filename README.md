@@ -1,6 +1,6 @@
-# Ball Breaker
+# Brick Breaker Game (Java)
 
-Ball Breaker is a classic arcade-style game developed in Java 11. Use the left and right arrow keys to control the paddle, keep the ball in play, and break all the bricks to earn points. If you miss the ball, you lose the game, but you can restart it anytime by pressing the Enter key.
+Brick Breaker is a classic arcade-style game developed in Java 11. Use the left and right arrow keys to control the paddle, keep the ball in play, and break all the bricks to earn points. If you miss the ball, you lose the game, but you can restart it anytime by pressing the Enter key.
 
 ### Game Features
 
@@ -22,7 +22,7 @@ Ball Breaker is a classic arcade-style game developed in Java 11. Use the left a
 
 Clone the Repository:
 ```
-git clone https://github.com/VirajMadhu/BallBreaker-Game.git
+git clone https://github.com/VirajMadhu/Brick-Breaker-Game.git
 ```
 
 Navigate to the Project Directory:
@@ -69,4 +69,4 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/VirajMadhu/BallBreaker-Game/blob/main/LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/VirajMadhu/Brick-Breaker-Game/blob/main/LICENSE) file for more details.
